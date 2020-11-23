@@ -1,7 +1,7 @@
 /* цвет основного текста #757575*/
 /* вторичный цвет текста #212121 */
 /* цвет акцента 2196f3*/
-/* белый  */
+/* фон белый  */
 :root {
   --primary-text-color: #757575;
   --title-text-color: #212121;
@@ -71,7 +71,7 @@ nav a,
 /* h1 Заголовок h1 */
 .hero {
   color: var(--primary-white-color);
-  background-color: var(--primary-text-color);
+  background-color: #2f303a;
 }
 h1 {
   font-weight: 900;
